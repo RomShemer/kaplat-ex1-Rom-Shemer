@@ -1,3 +1,4 @@
 a.txt
 data
 edit for commit C4
+edit for commit C6
