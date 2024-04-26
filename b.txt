@@ -1,2 +1,3 @@
 b.txt
 data
+add data for commit C7 
